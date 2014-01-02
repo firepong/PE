@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: Probably - FireKitteh
+## Notes: ProbablyEngine Custom Feral Combat Druid
+## Dependencies: Probably
+
+rotation.lua
